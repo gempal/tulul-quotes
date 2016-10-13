@@ -2794,4 +2794,29 @@ quotes:
 
 #last quote : 24 - 3 - 2016
 
+  - q_no: 311
+    quote: "Besarnya harapan berbanding lurus dengan sakit yang dirasakan"
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - harapan
+     - sakit
+     - rasa
 
+  - q_no: 312
+    quote: "Kalo kenal gw hidup ga akan hambar kok ;)"
+    author: Esther Hannateta
+    author_bio: Expert data lelaki tamvan
+    tags:
+     - hidup
+     - hambar
+     - rasa
+
+  - q_no: 313
+    quote: "Mestinya lu tetap makan yang hambar supaya terbiasa sama hambarnya hidup ini"
+    author: Eriq Agustab
+    author_bio: Sepuh Tulul
+    tags:
+     - hambar
+     - hidup
+     - makan
